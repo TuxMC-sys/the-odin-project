@@ -3,8 +3,7 @@ Resources: [MDN](https://developer.mozilla.org/en-US/docs/Learn/), Public Librar
 
 The roadmap:
 
-Learn HTML: In Progress
-Learn CSS(Basics): Early progress
-Learn JS(Basics): Early Progress
+Learn HTML: In Progress, Learn CSS(Basics): Early progress, Learn JS(Basics): Early Progress
+
 Learn CSS(Advanced): No started
 Learn JS and Frameworks: Not started
